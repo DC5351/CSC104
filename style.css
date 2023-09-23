@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to right, #000000, #130925, #1b0d35);
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+    }
+    h1{
+    color:aliceblue;
+    text-align: center;
+    }
+    h2{
+    color:azure;
+    text-align: center;
+    }
+    h3{
+    color:beige;
+    }
+    p{
+    color: #ffffff;
+    font-size: large;
+    }
+    a:visited{
+    color:aqua;
+    }
